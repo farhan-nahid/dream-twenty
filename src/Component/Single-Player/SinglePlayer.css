@@ -1,0 +1,30 @@
+.image img {
+  height: 160px;
+  width: 100%;
+}
+
+button {
+  width: 100%;
+}
+
+.card {
+  background-color: #4332a5cf;
+  position: relative;
+  box-shadow: 20px 20px 40px gray;
+  border-radius: 10px;
+}
+
+.card:hover {
+  z-index: 1;
+  transform: scale(1.08);
+  transition: 1.5s;
+  background-color: green;
+}
+
+h6 {
+  color: coral;
+}
+
+p {
+  color: aquamarine;
+}

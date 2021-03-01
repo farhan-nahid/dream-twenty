@@ -2,149 +2,108 @@
   {
     "id": "1",
     "name": "Lionel Messi",
-    "club": "Barcelona",
+    "club": "Barcelona F.C.",
     "salary": 300,
-    "image": "https://ibb.co/KFp6tKZ"
+    "image": "https://i.ibb.co/bzM14bh/p19054-t178-2020-1-002-000.jpg"
   },
   {
     "id": "2",
     "name": "Cristiano Ronaldo",
-    "club": "Juventus",
+    "club": "Juventus F.C.",
     "salary": 290,
-    "image": "https://ibb.co/Cmtqpyp"
+    "image": "https://i.ibb.co/tQhSw6w/cristiano-ronaldo-1-billion-earnings-01.jpg"
   },
   {
     "id": "3",
     "name": "Neymar",
     "club": "PSG",
     "salary": 280,
-    "image": "https://ibb.co/GWYS5wd"
+    "image": "https://i.ibb.co/Wk8J29H/194e450a361e85fbcb90a85b0e274b1e-crop-exact.jpg"
   },
   {
     "id": "4",
     "name": "Mohamed Salah",
     "club": "Liverpool F.C",
     "salary": 180,
-    "image": "https://ibb.co/f8P4CKv"
+    "image": "https://i.ibb.co/7g62GT4/Atalayar-Mohamed-Salah-jugador-del-Liverpool-4.jpg"
   },
   {
     "id": "5",
     "name": "Diego Maradona",
     "club": "S.S.C. Napoli",
     "salary": 500,
-    "image": "https://ibb.co/WH0j1cv"
+    "image": "https://i.ibb.co/nwBtSDM/8030-E0-C5-8890-4467-AA36-07-CF9-D65-B115.jpg"
   },
   {
     "id": "6",
     "name": "Ronaldinho",
-    "club": "Barcelona",
+    "club": "Barcelona F.C.",
     "salary": 400,
-    "image": "https://ibb.co/44RBXbZ"
+    "image": "https://i.ibb.co/YfBv157/ronaldinho-barcelona-1slsxexo4gn5z1m0cln77mlj3h.jpg"
   },
   {
     "id": "7",
     "name": "Mesut Özil",
     "club": "Fenerbahçe S.K.",
     "salary": 230,
-    "image": "https://ibb.co/kGn8rGd"
+    "image": "https://i.ibb.co/3TXN8TJ/ozil-65.jpg"
   },
+
   {
     "id": "8",
-    "name": "Romelu Lukaku",
-    "club": "Inter Milan",
-    "salary": 100,
-    "image": "https://ibb.co/4V6BTFQ"
+    "name": "Sergio Agüero",
+    "club": "Manchester City",
+    "salary": 150,
+    "image": "https://i.ibb.co/Dz8H4yh/20-AW-PR-TS-Manchester-City-AWAY-Players-Clean-0001-1920-x-1080.jpg"
   },
   {
     "id": "9",
-    "name": "Sergio Agüero",
-    "club": "Manchester City F.C.",
-    "salary": 150,
-    "image": "https://ibb.co/jbWPh2m"
+    "name": " Lewandowski",
+    "club": "Bayern Munich",
+    "salary": 210,
+    "image": "https://i.ibb.co/T10JHRc/Getty-Images-1185982899.jpg"
   },
   {
     "id": "10",
-    "name": "Robert Lewandowski",
-    "club": " FC Bayern Munich",
-    "salary": 210,
-    "image": "https://ibb.co/G9MGVk7"
-  },
-  {
-    "id": "11",
     "name": "Paulo Dybala",
     "club": "Juventus F.C.",
     "salary": 260,
-    "image": "https://ibb.co/1Lb54zf"
+    "image": "https://i.ibb.co/HVXs9hD/p-Uy-Qv-H09p1.jpg"
+  },
+
+  {
+    "id": "11",
+    "name": "Manuel Neuer",
+    "club": "Bayern Munich",
+    "salary": 300,
+    "image": "https://i.ibb.co/R7XHSM1/download.jpg"
   },
   {
     "id": "12",
-    "name": "Gareth Bale",
-    "club": " Tottenham Hotspur F.C.",
-    "salary": 130,
-    "image": "https://ibb.co/986nxLg"
+    "name": "Sergio Romero",
+    "club": "Manchester Un.",
+    "salary": 20,
+    "image": "https://i.ibb.co/ng9rrpB/download-1.jpg"
   },
   {
     "id": "13",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
+    "name": "David Beckham",
+    "club": "Inter Miami ",
+    "salary": 350,
+    "image": " https://i.ibb.co/T8Pd0Yt/58fa6d2d2534bcc0f8e613fc27853040.jpg"
   },
   {
     "id": "14",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
+    "name": "Sadio Mané",
+    "club": "Liverpool F.C",
+    "salary": 230,
+    "image": "https://i.ibb.co/867D9hV/mane-2.jpg"
   },
   {
     "id": "15",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
-  },
-  {
-    "id": "16",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
-  },
-  {
-    "id": "17",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
-  },
-  {
-    "id": "18",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
-  },
-  {
-    "id": "19",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
-  },
-  {
-    "id": "20",
-    "name": "Lionel Messi",
-    "club": "Barcelona",
-    "salary": 300,
-    "Awards": "European Golden Shoe, Pichichi Trophy",
-    "image": "https://ibb.co/KFp6tKZ"
+    "name": "Ángel Di María",
+    "club": "PSG",
+    "salary": 129,
+    "image": "https://i.ibb.co/1XW7Wwq/dmariya.png"
   }
 ]

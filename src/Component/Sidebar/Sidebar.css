@@ -1,0 +1,47 @@
+aside {
+  border-left: 2px solid rgb(63, 0, 180);
+}
+
+.sidebar {
+  border: 5px dotted red;
+  padding: 15px;
+  background: linear-gradient(45deg, rgb(255, 209, 4), transparent);
+}
+
+h1 {
+  font-size: 25px;
+  font-weight: 600;
+  color: #ff00e0;
+}
+
+.player-details {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 13px;
+  position: relative;
+}
+
+h3 {
+  color: darkblue;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: monospace;
+  border-bottom: 2px solid gray;
+}
+
+h3:hover {
+  z-index: 1;
+  transform: translateX(50px);
+  transition: 1.5s;
+}
+
+.bg-color {
+  margin-top: 10px;
+  background-color: #2a6dd2de;
+  color: whitesmoke;
+}
+
+.bg-color:hover {
+  color: aliceblue;
+}
